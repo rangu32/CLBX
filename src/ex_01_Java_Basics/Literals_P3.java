@@ -1,0 +1,11 @@
+package ex_01_Java_Basics;
+
+public class Literals_P3 {
+
+
+        public static void main(String[] args) {
+            int Enum = 9; // enum is keyword
+            System.out.println(Enum);
+        }
+    }
+
